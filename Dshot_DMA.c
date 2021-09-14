@@ -127,7 +127,6 @@ void Dshot_enableConfigureTimer()
 	safe_packet_data[16] = 0;
 	safe_packet_data[17] = 0;
 	safe_packet_data[18] = 0;
-	counter = 0;
 
 	//TIM8->CR1 |= TIM_CR1_UDIS;				//halt update event interrupts
 	//TIM8->CR1 &= ~(TIM_CR1_UDIS);		//begin update events
