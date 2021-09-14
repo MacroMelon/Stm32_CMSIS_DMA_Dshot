@@ -8,4 +8,6 @@ So by default it runs on Dshot1200, we will have to set the ARR to 14 and presca
 
 TODO- proper docs
 
-###This is VERY early in the dev cycle so be careful when using it, I havent done any testing so I take no responsisblity, legal or otherwise, for damages caused by others due to bugs in this code
+###This sofware is just pulled from one of my projects, check before using, may not always work first try###
+
+###This is VERY early in the dev cycle so be careful when using it, I havent done any testing so I take no responsisblity, legal or otherwise, for damages caused by others due to bugs in this code###
