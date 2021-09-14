@@ -6,6 +6,8 @@ for a personal project, so its not a proper library or anything
 
 So by default it runs on Dshot1200, we will have to set the ARR to 14 and prescaler accordingly to go to 2400
 
+Inspired and made possible by: https://github.com/mokhwasomssi/stm32_hal_dshot
+
 TODO- proper docs
 
 ###This sofware is just pulled from one of my projects, check before using, may not always work first try###
