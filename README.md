@@ -1,4 +1,4 @@
-# Stm32_CMSIS_DMA_Dshot
+# Stm32 CMSIS DMA Dshot
 A low level, VERY lightweight dshot (upto Dshot2400) implementation on stm32 using the standard device headers (CMSIS) proved by ST
 
 For now, everything you need should be in the examples folder, keep in mind this is just something that I came up with
